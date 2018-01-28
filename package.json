@@ -1,5 +1,5 @@
 {
-  "name": "NBSearchWidget-Boilerplate",
+  "name": "NBConfigPlugin-Boilerplate",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mdalkaya/NBSearchWidget-Boilerplate.git"
+    "url": "https://github.com/mdalkaya/NBConfigPlugin-Boilerplate"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mdalkaya/NBSearchWidget-Boilerplate/issues"
+    "url": "https://github.com/mdalkaya/NBConfigPlugin-Boilerplate/issues"
   },
-  "homepage": "https://github.com/mdalkaya/NBSearchWidget-Boilerplate#readme",
+  "homepage": "https://github.com/mdalkaya/NBConfigPlugin-Boilerplate#readme",
   "dependencies": {
     "javascript-time-ago": "^1.0.21",
     "lodash": "^4.17.4",
