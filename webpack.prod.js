@@ -125,7 +125,7 @@ module.exports = merge(common, {
   new HtmlWebpackPlugin({
     //    inject: false,
         chunks: ['config'],
-        filename: 'config.html',
+        filename: 'index.html',
         template: './config.prod.html'
   
       }),
