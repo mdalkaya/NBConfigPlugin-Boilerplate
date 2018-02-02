@@ -137,7 +137,7 @@ module.exports = merge(common, {
     
     },
     host: "0.0.0.0",
-    port: 3002,
+    port: 3001,
     hot: true,
     inline: true,
 
